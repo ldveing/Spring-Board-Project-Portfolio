@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.aspectj.lang.JoinPoint"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.Request"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="java.sql.Timestamp"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="com.springbook.biz.member.MemberDTO"/>
+<fullyQualifiedTypeName name="com.springbook.biz.advice.UtilSession"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.springbook.biz.board.BoardDTO"/>
+<fullyQualifiedTypeName name="com.springbook.biz.board.PageDTO"/>
+<fullyQualifiedTypeName name="com.springbook.biz.board.BlockDTO"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.SessionAttributes"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+<fullyQualifiedTypeName name="javax.annotation.Resource"/>
+<fullyQualifiedTypeName name="com.springbook.biz.board.impl.BoardDAOSpring"/>
+<fullyQualifiedTypeName name="com.springbook.biz.board.impl.BoardDAOSpring2"/>
+<fullyQualifiedTypeName name="org.mybatis.spring.SqlSessionTemplate"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactory"/>
+<fullyQualifiedTypeName name="org.mybatis.spring.SqlSessionFactoryBean"/>
+</qualifiedTypeNameHistroy>
